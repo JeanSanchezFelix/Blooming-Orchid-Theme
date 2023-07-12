@@ -1,12 +1,32 @@
 {
   "name": "blooming-orchid-theme",
   "displayName": "Blooming Orchid Theme",
-  "description": "Introducing the (Dark) \"Blooming Orchid Theme\" for Visual Studio Code, a stunning and meticulously crafted code theme that builds upon the foundation of the popular Legendary Dark theme. Designed with the goal of enhancing readability and injecting an exhilarating touch into your coding experience, Blooming Orchid takes inspiration from the elegance of nature's vibrant orchids.",
-  "version": "0.0.1",
+  "description": "Introducing the (Dark) \"Blooming Orchid Theme\" for Visual Studio Code, a stunning and meticulously crafted code theme that builds upon the foundation of the popular Legendary Dark theme by Llewellyn Adonteng Paintsil. Designed with the goal of enhancing readability and injecting an exhilarating touch into your coding experience, Blooming Orchid takes inspiration from the elegance of nature's vibrant orchids.",
+  "version": "1.0.0",
   "publisher": "JeanSanchez",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/JeanSanchezFelix/Blooming-Orchid-Theme.git"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
+  "keywords": [
+      "theme",
+      "dark",
+      "dark theme",
+      "vscode theme",
+      "orchid",
+      "low contrast",
+      "colorful",
+      "pastel",
+      "readability",
+      "Legendary Dark theme",
+      "Andromeda",
+      "SynthWave",
+      "SynthWave '84"
+      
+  ],
   "categories": [
     "Themes"
   ],
