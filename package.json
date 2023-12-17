@@ -1,8 +1,12 @@
 {
   "name": "blooming-orchid-theme",
   "displayName": "Blooming Orchid Theme",
-  "description": "Introducing the (Dark) \"Blooming Orchid Theme\" for Visual Studio Code, a stunning and meticulously crafted code theme that builds upon the foundation of the popular Legendary Dark theme by Llewellyn Adonteng Paintsil. Designed with the goal of enhancing readability and injecting an exhilarating touch into your coding experience, Blooming Orchid takes inspiration from the elegance of nature's vibrant orchids.",
-  "version": "1.0.0",
+  "icon": "logo.png",
+  "marketplace-page": {
+   " background-color": "#055728"
+  },
+  "description": "Introducing the \"Blooming Orchid Theme\", a meticulously crafted code theme that builds upon the foundation of the popular Legendary Dark theme by Llewellyn Adonteng Paintsil. Designed with the goal of enhancing readability, the theme takes inspiration from the elegance of nature's vibrant orchids.",
+  "version": "1.1.0",
   "publisher": "JeanSanchez",
   "repository": {
       "type": "git",
