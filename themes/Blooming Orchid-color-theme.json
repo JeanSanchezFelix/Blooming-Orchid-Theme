@@ -1326,28 +1326,53 @@
 		  "fontStyle": "italic bold"
 		}
 	  },
+	  {
+		"scope": "variable.other.object.java",
+		"settings": {
+		  "foreground": "#8cecf7",
+		  "fontStyle": ""
+		}
+	  },
       {
-		  "scope": "punctuation.definition.annotation.java",
+		"scope": "punctuation.definition.annotation.java",
         "settings": {
           "foreground": "#1F9FF2",
           "fontStyle": ""
         }
       },
       {
+		"scope": [ 
+			"keyword.other.import.java",
+		  	"storage.modifier.extends.java",
+		  	"storage.modifier.implements.java",
+	  	],
+        "settings": {
+		  "foreground": "#49b598",
+          "fontStyle": ""
+        }
+      },
+      {
         "scope": [
-			"storage.modifier.java",
-			"keyword.other.import.java"
+			"storage.modifier.java"
 		],
         "settings": {
           "foreground": "#72F1B8",
           "fontStyle": ""
         }
       },
+	  {
+		"scope": "keyword.control.new.java",
+		"settings": {
+		  "foreground": "#72F1B8",
+		  "fontStyle": "italic"
+		}
+	  },
       {
         "scope": [
-			"storage.modifier.extends.java",
-			"storage.modifier.implements.java",
-			"meta.throwables.java"
+			"meta.throwables.java",
+			"keyword.control.finally.java",
+			"keyword.control.catch.java",
+			"keyword.control.try.java",
 		],
         "settings": {
           "foreground": "#72F1B8",
@@ -1412,13 +1437,22 @@
         "scope": "variable.other.object.property.java",
         "settings": {
           "foreground": "#fb9fe1",
-          "fontStyle": ""
+          "fontStyle": "italic"
         }
       },
+	  {
+		"scope": "storage.type.generic.java",
+		"settings": {
+		  "foreground": "#e2c9aa",
+		  "fontStyle": "italic bold"
+		}
+	  },
       {
         "scope": [
 			"punctuation.separator.delimiter.java",
-			"punctuation.terminator.java"
+			"punctuation.terminator.java",
+			"punctuation.separator.period.java",
+			"punctuation.bracket.angle.java"
 		],
         "settings": {
           "foreground": "#ffffff",
@@ -1449,5 +1483,3 @@
 
 	  ]
 	}
-
-
